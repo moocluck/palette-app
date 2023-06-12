@@ -1,0 +1,6 @@
+{
+  "eslint.options": {
+    "configFile": "./_config/eslint.json"
+  },
+  "editor.formatOnSave": true
+}
